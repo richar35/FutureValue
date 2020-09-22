@@ -1,0 +1,40 @@
+﻿body {
+    padding: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin-top: 0;
+    color: navy;
+}
+
+label {
+    display: inline-block;
+    width: 50%;
+    padding-right: 1em;
+}
+
+input {
+    width: 20em;
+    padding-right: 20em;
+}
+
+div {
+    margin-bottom: .5em;
+}
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+    color: #0366d6;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
